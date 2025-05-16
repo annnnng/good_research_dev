@@ -7,3 +7,6 @@ I am following the materials of
 - [Improve your workflow for reproducible science](https://mine-cr.com/talk/2021-improve-workflow-repro-science-oss/)
 - [R style guide](http://adv-r.had.co.nz/Style.html)
 - [A World of Possibilities for Reproducible Publishing with Quarto](https://mine-cetinkaya-rundel.github.io/quarto-world-of-possibilities-jsm24/)
+- [Happy Git with R](http://happygitwithr.com/)
+- [Software Carpentry Project](http://software-carpentry.org/)
+- [Reproducible Research](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_withnotes.pdf)
